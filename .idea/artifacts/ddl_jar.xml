@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ddl:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ddl_jar</output-path>
+    <root id="archive" name="ddl.jar">
+      <element id="module-output" name="ddl" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/db2jcc_license_cisuz.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/db2jcc_license_cu.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/db2jcc4.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
